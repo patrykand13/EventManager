@@ -31,6 +31,7 @@ A few of the things you can do with EventManager:
 - accept and decline requests to join events
 - register as a new user
 - send requests to join the events and check their status
+
 ![Admin](./foto/admin.png) ![register](./foto/register.png) ![joinEvent](./foto/joinEvent.png)
 ![Admin](./foto/adminUser.png) ![Login](./foto/login.png)
 
