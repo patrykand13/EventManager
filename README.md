@@ -12,8 +12,9 @@ Event management application.
 
 Create new events, manage them, and control your users by editing them, creating them, and accepting their requests to join. All this using an administrator account. As a user, sign up for a specific event and see if your join request has been approved.
 
-All this will be possible when logging into the appropriate account
-![Admin](./foto/admin.png)
+All this will be possible when logging into the appropriate account.
+
+![Admin](./foto/adminUser.png) ![Login](./foto/login.png)
 
 ## Technologies
 Java and MySql
@@ -30,6 +31,8 @@ A few of the things you can do with EventManager:
 - accept and decline requests to join events
 - register as a new user
 - send requests to join the events and check their status
+![Admin](./foto/admin.png) ![register](./foto/register.png) ![joinEvent](./foto/joinEvent.png)
+![Admin](./foto/adminUser.png) ![Login](./foto/login.png)
 
 
 
