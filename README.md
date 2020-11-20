@@ -13,6 +13,7 @@ Event management application.
 Create new events, manage them, and control your users by editing them, creating them, and accepting their requests to join. All this using an administrator account. As a user, sign up for a specific event and see if your join request has been approved.
 
 All this will be possible when logging into the appropriate account
+![Admin](./foto/admin.png)
 
 ## Technologies
 Java and MySql
